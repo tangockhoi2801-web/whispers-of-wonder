@@ -3,7 +3,7 @@
 Bản MVP game 3D khám phá thiên nhiên chạy trên trình duyệt, tập trung vào khu vực **Moonlight Lake**.
 
 ## Chơi game
-Mở trang GitHub Pages của repository sau khi GitHub Actions hoàn tất lần triển khai đầu tiên:
+Sau khi GitHub Actions hoàn tất lần triển khai đầu tiên, mở:
 https://tangockhoi2801-web.github.io/whispers-of-wonder/
 
 ## Điều khiển
@@ -32,10 +32,7 @@ https://tangockhoi2801-web.github.io/whispers-of-wonder/
 ```bash
 python -m http.server 8080
 ```
-
 Mở http://localhost:8080. Cần kết nối Internet để tải Three.js và phông chữ từ CDN.
 
-## Source code
-File `whispers-of-wonder-source.zip` chứa project đầy đủ, gồm source modules, tài liệu kiến trúc, package.json và workflow. Giải nén file này để tiếp tục phát triển bằng Vite/Three.js.
-
-Đây là MVP tập trung vào Moonlight Lake, chưa phải bản hoàn thiện của toàn bộ master prompt. Các khu vực còn lại chưa được triển khai thành màn chơi riêng.
+## Phạm vi
+Đây là MVP tập trung vào Moonlight Lake, chưa phải bản hoàn thiện của toàn bộ master prompt. Các khu vực Enchanted Forest, Mountain of Dreams, Starlight Beach và Floating Sky Islands chưa được triển khai thành màn chơi riêng.
