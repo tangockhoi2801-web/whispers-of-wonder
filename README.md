@@ -28,7 +28,7 @@ https://tangockhoi2801-web.github.io/whispers-of-wonder/
 - Ambient audio tổng hợp bằng Web Audio API.
 - Bản đồ, cài đặt, Photo Mode và điều khiển cảm ứng cơ bản.
 
-## Chạy local
+## Trạng thái kỹ thuật\n\nBản game hiện đã sửa lỗi khai báo Three.js trùng lặp trong module khởi tạo.\n\n## Chạy local
 ```bash
 python -m http.server 8080
 ```
